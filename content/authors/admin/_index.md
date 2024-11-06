@@ -41,12 +41,10 @@ profiles:
     url: https://www.linkedin.com/in/yuki-hirakawa-680912164/
   - icon: academicons/google-scholar
     url: https://scholar.google.co.jp/citations?user=smJhq6UAAAAJ&hl=ja
-  - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0009-0002-5249-6100
 
 interests:
   - Machine learning
-  - Computational Vision
+  - Computer Vision
   - Kansei Engineering
 
 education:
