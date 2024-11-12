@@ -45,6 +45,7 @@ profiles:
 interests:
   - Machine learning
   - Computer Vision
+  - Natural Language Processing
   - Kansei Engineering
 
 education:

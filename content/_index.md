@@ -15,9 +15,6 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -32,11 +29,11 @@ sections:
           parallax: false
   - block: collection
     content:
-      title: Recent Publications
+      title: Recent Papers
       text: ""
       filters:
         folders:
-          - publications
+          - papers
         exclude_featured: false
     design:
       view: citation

@@ -7,9 +7,12 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Publications
-    url: publications/
+  - name: Papers
+    url: papers/
     weight: 20
   - name: Experience
     url: experience/
     weight: 30
+  - name: Skills
+    url: skills/
+    weight: 40
