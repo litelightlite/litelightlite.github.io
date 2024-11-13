@@ -49,12 +49,12 @@ interests:
   - Kansei Engineering
 
 education:
-  - area: MEng Artificial Intelligence
-    institution: Tokyo Institute of Technology
+  - area: MEng in Artificial Intelligence
+    institution: Tokyo Institute of Technology (supervised by Prof. Masamichi Shimosaka, A Lightweight Driving Behavior Modeling Using Greedy Feature Optimization)
     date_start: 2020-09-01
     date_end: 2022-03-31
-  - area: BSc Physics
-    institution: Keio University
+  - area: BSc in Physics
+    institution: Keio University (supervised by Prof. Ayori Mitsutake, Constant-Temperature Molecular Dynamics of an Argon System)
     date_start: 2013-04-01
     date_end: 2018-03-31
 work:
