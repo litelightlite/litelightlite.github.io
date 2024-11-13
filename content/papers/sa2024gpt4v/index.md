@@ -31,7 +31,7 @@ publication_types: ['conference paper']
 
 # Publication name and optional abbreviated publication name.
 publication: SIGGRAPH Asia Technical Communications (In press)
-publication_short: SA Technical Communications (In press)
+publication_short: SIGGRAPH Asia Technical Communications (In press)
 
 abstract: Fashion aesthetic evaluation is the task of estimating how well the outfits worn by individuals in images suit them. In this work, we examine the zero-shot performance of GPT-4V on this task for the first time. We show that its predictions align fairly well with human judgments on our datasets, and also find that it struggles with ranking outfits in similar colors. The code is available at https://github.com/st-tech/gpt4v-fashion-aesthetic-evaluation.
 
